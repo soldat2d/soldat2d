@@ -13,5 +13,5 @@ https://github.com/soldat2d/yandex-price-monitoring
 - cloud service (junit, testcontainers, validation, liquibase)
 https://github.com/soldat2d/cloud-service
 
-also have experience: k8s, docker, kafka, rabbitmq, tomcat, wildfly, flyway, postgresql, mysql, maven, gradle, git
+Also have experience: k8s, docker, kafka, rabbitmq, tomcat, wildfly, flyway, postgresql, mysql, maven, gradle, git
 ос: Windows, Linux
