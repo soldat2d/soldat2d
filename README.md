@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @soldat2d
+- 👋 Hi, I’m Kirill
 - 👀 I’m interested in Java and technologies
 - 📫 How to reach me ten.soldat@gmail.com
 
-Мои проекты:
+My projects:
 
-- soap сервис (web services, jaxb, xml)
+- soap service (web services, jaxb, xml)
 https://github.com/soldat2d/soap-service
 
-- сервис мониторинга цен (prometheus, grafana, openfeign, scheduling)
+- price monitoring (prometheus, grafana, openfeign, scheduling)
 https://github.com/soldat2d/yandex-price-monitoring
 
-- облачное хранилище (junit, testcontainers, validation, liquibase)
+- cloud service (junit, testcontainers, validation, liquibase)
 https://github.com/soldat2d/cloud-service
 
-также есть опыт: k8s, docker, kafka, rabbitmq, tomcat, wildfly, flyway, postgresql, mysql, maven, gradle, git
+also have experience: k8s, docker, kafka, rabbitmq, tomcat, wildfly, flyway, postgresql, mysql, maven, gradle, git
 ос: Windows, Linux
