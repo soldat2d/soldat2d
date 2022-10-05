@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirill
 - 👀 I’m interested in Java and technologies
-- 📫 How to reach me ten.soldat@gmail.com
+- 📫 How to reach me kiosun@mail.ru
 
 My projects:
 
