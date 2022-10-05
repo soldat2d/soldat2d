@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @soldat2d
 - 👀 I’m interested in Java and technologies
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ten.soldat@gmail.com
 
 Мои проекты:
 
 - soap сервис (web services, jaxb, xml)
+https://github.com/soldat2d/soap-service
 
 - сервис мониторинга цен (prometheus, grafana, openfeign, scheduling)
 https://github.com/soldat2d/yandex-price-monitoring
