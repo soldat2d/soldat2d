@@ -13,5 +13,5 @@ https://github.com/soldat2d/yandex-price-monitoring
 - облачное хранилище (junit, testcontainers, validation, liquibase)
 https://github.com/soldat2d/cloud-service
 
-также есть опыт: k8s, docker, kafka, rabbitmq, tomcat, wildfly, flyway, postgresql, mssql, maven, gradle, git
+также есть опыт: k8s, docker, kafka, rabbitmq, tomcat, wildfly, flyway, postgresql, mysql, maven, gradle, git
 ос: Windows, Linux
