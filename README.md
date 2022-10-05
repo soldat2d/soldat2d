@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ten.soldat@gmail.com
 
-<!---
-soldat2d/soldat2d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Мои проекты:
+
+- soap сервис (web services, jaxb, xml)
+- сервис мониторинга цен (prometheus, grafana, openfeign, scheduling)
+- облачное хранилище (junit, testcontainers, validation, liquibase)
+
+также есть опыт: k8s, docker, kafka, rabbitmq, tomcat, wildfly, flyway, postgresql, mssql, maven, gradle, git
+ос: Windows, Linux
