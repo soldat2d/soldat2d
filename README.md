@@ -7,7 +7,10 @@
 Мои проекты:
 
 - soap сервис (web services, jaxb, xml)
+
 - сервис мониторинга цен (prometheus, grafana, openfeign, scheduling)
+https://github.com/soldat2d/yandex-price-monitoring
+
 - облачное хранилище (junit, testcontainers, validation, liquibase)
 
 также есть опыт: k8s, docker, kafka, rabbitmq, tomcat, wildfly, flyway, postgresql, mssql, maven, gradle, git
