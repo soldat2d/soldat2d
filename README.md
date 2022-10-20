@@ -14,4 +14,5 @@ https://github.com/soldat2d/yandex-price-monitoring
 https://github.com/soldat2d/cloud-service
 
 Also have experience: k8s, docker, kafka, rabbitmq, tomcat, wildfly, flyway, postgresql, mysql, maven, gradle, git
+
 ос: Windows, Linux
